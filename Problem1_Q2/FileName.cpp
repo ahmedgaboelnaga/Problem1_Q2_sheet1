@@ -17,4 +17,6 @@ int main()
 	{
 		cout << "The number " << n << " is negative";
 	}
+
+	return 0;
 }
